@@ -25,3 +25,5 @@ Relacionamentos
 Cliente — Veículo (1:N): Um cliente pode possuir vários veículos, mas cada veículo pertence a um cliente.
 Veículo — Serviço (1:N): Um veículo pode ter vários serviços registrados ao longo do tempo, mas cada serviço está associado a um veículo.
 Cliente — Serviço (1:N): Um cliente pode ter vários serviços registrados, e cada serviço está associado a um cliente.
+<img width="1116" height="619" alt="image" src="https://github.com/user-attachments/assets/504edee5-748b-4feb-a81f-52623b084185" />
+
